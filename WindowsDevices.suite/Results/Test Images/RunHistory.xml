@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Test Images">
+ <run>
+  <RunDate>2016-08-18 13:40:05.315 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.335198</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160818_134005.315/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

@@ -1,0 +1,19 @@
+﻿{
+    CaptureDate = "2016-08-18 18:22:24 +0000";
+    CaptureHost = localhost;
+    CaptureScreenSize =     (
+        800,
+        1280
+    );
+    HasAlpha = 1;
+    HotSpotX = 16;
+    HotSpotY = 21;
+    ImageDescription = <>;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 449;
+    OriginalLocationY = 922;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+}

@@ -1,0 +1,18 @@
+﻿{
+    CaptureDate = "2016-08-19 17:00:25 +0000";
+    CaptureHost = "Carrie iPhone";
+    CaptureScreenSize =     (
+        640,
+        1136
+    );
+    HasAlpha = 1;
+    HotSpotX = 272;
+    HotSpotY = 101;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 46;
+    OriginalLocationY = 457;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+}

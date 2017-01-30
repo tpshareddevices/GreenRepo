@@ -1,0 +1,21 @@
+﻿on iPhone6s
+
+	log "Excute unlock Process"
+	if imagefound (image: "Apple/Sleep Screen") Then
+		Log "iPhone 6s is Locked"
+		PressHomeButton 
+		SwipeRight (00,600)
+		wait 4
+		Click (160,845)
+		Click (370,1035)
+		Click (580,685)
+		Click (370,1035)
+		wait 2
+		PressHomeButton
+		PressHomeButton
+	else
+		Log "Unable to Find Sleep Screen"
+	end if
+	Log "Apple iPhone 6s is Unlocked"
+end iPhone6s
+

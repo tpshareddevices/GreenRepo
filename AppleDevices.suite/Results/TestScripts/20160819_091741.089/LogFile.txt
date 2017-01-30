@@ -1,0 +1,3 @@
+﻿2016-08-19 09:17:41.111 -0600	START		Running TestScripts.script
+2016-08-19 09:17:42.027 -0600	EndTestCase		(Duration:"0.911873", Errors:"0", Exceptions:"0", StartTime:"2016-08-19 09:17:41 -0600", Successes:"1", TestCase:"TestScripts.script", Warnings:"0")
+2016-08-19 09:17:42.099 -0600	SUCCESS		Execution Time 0:00:00 TestScripts.script

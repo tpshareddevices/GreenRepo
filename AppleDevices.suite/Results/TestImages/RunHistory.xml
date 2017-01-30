@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<runHistory script="TestImages">
+ <run>
+  <RunDate>2016-08-18 15:07:35.801 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>2.022096</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160818_150735.801/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-18 15:07:50.906 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>2.058647</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160818_150750.906/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

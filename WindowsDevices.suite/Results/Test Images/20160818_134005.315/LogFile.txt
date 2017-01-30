@@ -1,0 +1,4 @@
+﻿2016-08-18 13:40:05.316 -0600	START		Running Test Images.script
+2016-08-18 13:40:05.975 -0600	click	Chrome/Desktop Icon/iPhone 5c	at (549, 818)	3	on_test_images	Test Images.script
+2016-08-18 13:40:06.651 -0600	EndTestCase		(Duration:"1.33378", Errors:"0", Exceptions:"0", StartTime:"2016-08-18 13:40:05 -0600", Successes:"1", TestCase:"Test Images.script", Warnings:"0")
+2016-08-18 13:40:06.659 -0600	SUCCESS		Execution Time 0:00:01 Test Images.script

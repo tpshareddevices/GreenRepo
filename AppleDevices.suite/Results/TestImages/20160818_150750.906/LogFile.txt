@@ -1,0 +1,5 @@
+﻿2016-08-18 15:07:50.907 -0600	START		Running TestImages.script
+2016-08-18 15:07:52.056 -0600	imagefound	Website/Banner Industry/Financial	found at (374, 833)	4	on_testimages	TestImages.script
+2016-08-18 15:07:52.056 -0600	Log		True	4	on_testimages	TestImages.script
+2016-08-18 15:07:52.965 -0600	EndTestCase		(Duration:"2.05719", Errors:"0", Exceptions:"0", StartTime:"2016-08-18 15:07:50 -0600", Successes:"1", TestCase:"TestImages.script", Warnings:"0")
+2016-08-18 15:07:52.990 -0600	SUCCESS		Execution Time 0:00:02 TestImages.script
